@@ -1,87 +1,85 @@
-# 👋 Hi, I’m Elad
+# 👋 Hi, I'm Elad ✨
 
-I’m a **Computer Science student** at Ariel University 🇮🇱 and a software developer specializing in **systems programming**, **network protocols & security**, and **deep learning for computer vision**.  
-I enjoy building high-performance, well-architected software - from network servers to vision systems - with an emphasis on practical impact.
+🎓 I'm a **B.Sc. Computer Science student** at Ariel University  
+💻 Passionate about **systems programming**, **network protocols & security**, and **deep learning in computer vision**.  
+🚀 I love building robust and scalable software projects that solve real-world problems.
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 🧭 About Me
+- 🖥️ Experienced in **C++**, **Python**, and low-level systems development.  
+- 🌐 Worked on **network protocol research** (HTTP/3 QUIC Spoofed-ACK attack).  
+- 🧠 Currently developing **real-time vision-based navigation systems** for drones.  
+- 🌱 Always curious to learn, build, and improve.
+
+---
+
+## 🛠️ Skills & Tools
 
 ### 💻 Languages
-- **C++17** (advanced)  
-- Python (advanced)  
-- C (networking)  
-- SQL • Bash • Java
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### ⚙️ Core Expertise
-- **Systems Programming** - multithreading, concurrency, socket programming, performance tuning  
-- **Network Protocols & Security** - QUIC/HTTP/3, TLS 1.3, packet analysis, traffic interception  
-- **Software Architecture** - Reactor pattern, Leader-Follower thread pool, Active Object, pipeline designs  
-- **Deep Learning & Computer Vision** - PyTorch, neural networks, OpenCV, real-time vision pipelines (ORB-based feature matching)  
-- **Testing & Coverage** - gcov, lcov, unit testing, containerized environments
-
-### 🧭 Tools & Frameworks
-- Docker • Wireshark • SFML • aioquic • NetfilterQueue  
-- OpenCV • PyTorch • Linux / WSL2 • CMake • VSCode
+### 🧰 Frameworks & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 HTTP/3 Analysis and Attack *(Final Project — Research)*
-Final-year project focused on the internals and security of HTTP/3 (QUIC).  
-Developed a state-of-the-art **Spoofed-ACK attack** against the ACK mechanism in QUIC — including:
-- Traffic capture and key-log based decryption for analysis  
-- Automated attack scripts targeting ACK and reliability logic  
-- Proof-of-concept implementation, mitigations, and recommendations
+- Developed a **Spoofed-ACK attack** on the QUIC protocol’s ACK mechanism  
+- Implemented traffic capture, key log decryption, and automated attack scripts  
+- Delivered proof-of-concept and mitigation recommendations
 
----
+### 🚁 Optical-Drone-Navigation *(In Progress)*
+- Real-time **image matching system** for drone navigation  
+- Compares live camera input to stored reference flight path images  
+- Uses **ORB feature extraction** in OpenCV + PyTorch (planned for learning-based enhancement)
 
-### 🧠 Optical-Drone-Navigation *(In Progress)*
-A real-time **image matching system** for drone navigation.  
-The drone compares live camera input to stored reference images along its flight path to enable optical navigation without GPS.  
-Currently implementing **ORB feature extraction** and matching with OpenCV, with PyTorch planned for future learning-based enhancements.
-
----
-
-### 🕹 C++ Catan Game
-Board game implemented with SFML, featuring:
-- Turn-based game logic
-- Player state management
-- Interactive board visualization
-
----
+### 🕹️ Catan - C++ / SFML
+- GUI board game with interactive board visualization  
+- Turn-based game logic and property management system
 
 ### ⚡ Thread Pool TCP Server
-High-performance multithreaded TCP server implementing the **Reactor** and **Leader-Follower** patterns.  
-Designed to efficiently accept and handle many concurrent clients while minimizing latency.
-
----
-
-### 🧪 Algorithmic & Network Utilities
-- Custom graph utilities (MST, shortest path)  
-- Packet sniffing and analysis tools  
-- Dynamic programming templates  
-- Network testing scripts
+- High-performance server using **Reactor** and **Leader-Follower** patterns  
+- Handles multiple concurrent clients efficiently with minimal latency
 
 ---
 
 ## 📚 Areas of Interest
 - Systems programming and backend infrastructure  
-- Network protocol internals & security research  
-- Deep learning and computer vision applications  
-- Scalable, maintainable software architecture
+- Network protocol internals & security  
+- Deep learning and computer vision  
+- Scalable software architectures
 
 ---
 
-## 🌍 Connect with Me
-- 🐙 [GitHub](https://github.com/Eladi24)  
-- 💼 [LinkedIn](https://linkedin.com/in/elad-imany)
-- 📧 eladima66@gmail.com
+## 🤝 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eladi24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elad-imany)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eladima66@gmail.com)
 
 ---
 
-## ✨ Fun Facts
-- 🎸 Guitarist - into classic rock & heavy metal 
-- 🧑‍🍳 Enjoys cooking and exploring new recipes  
-- 🌿 Interested in design, creativity, and building personal projects outside of tech
+## 🌱 Beyond Code
+- 🎸 Guitarist — classic rock & heavy metal fan  
+- 🧑‍🍳 Enjoys cooking and exploring new ideas  
+- 🌿 Interested in creativity and building personal projects outside of tech
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
