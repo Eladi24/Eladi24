@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Elad
 
 I’m a **Computer Science student** at Ariel University 🇮🇱 and a software developer specializing in **systems programming**, **network protocols & security**, and **deep learning for computer vision**.  
-I enjoy building high-performance, well-architected software — from network servers to vision systems — with an emphasis on practical impact.
+I enjoy building high-performance, well-architected software - from network servers to vision systems - with an emphasis on practical impact.
 
 ---
 
@@ -11,14 +11,14 @@ I enjoy building high-performance, well-architected software — from network se
 - **C++17** (advanced)  
 - Python (advanced)  
 - C (networking)  
-- SQL • Bash • Java (basics)
+- SQL • Bash • Java
 
 ### ⚙️ Core Expertise
-- **Systems Programming** — multithreading, concurrency, socket programming, performance tuning  
-- **Network Protocols & Security** — QUIC/HTTP/3, TLS 1.3, packet analysis, traffic interception  
-- **Software Architecture** — Reactor pattern, Leader-Follower thread pool, Active Object, pipeline designs  
-- **Deep Learning & Computer Vision** — PyTorch, neural networks, OpenCV, real-time vision pipelines (ORB-based feature matching)  
-- **Testing & Coverage** — gcov, lcov, unit testing, containerized environments
+- **Systems Programming** - multithreading, concurrency, socket programming, performance tuning  
+- **Network Protocols & Security** - QUIC/HTTP/3, TLS 1.3, packet analysis, traffic interception  
+- **Software Architecture** - Reactor pattern, Leader-Follower thread pool, Active Object, pipeline designs  
+- **Deep Learning & Computer Vision** - PyTorch, neural networks, OpenCV, real-time vision pipelines (ORB-based feature matching)  
+- **Testing & Coverage** - gcov, lcov, unit testing, containerized environments
 
 ### 🧭 Tools & Frameworks
 - Docker • Wireshark • SFML • aioquic • NetfilterQueue  
@@ -82,6 +82,6 @@ Designed to efficiently accept and handle many concurrent clients while minimizi
 ---
 
 ## ✨ Fun Facts
-- 🎸 Guitarist — into classic rock & heavy metal 
+- 🎸 Guitarist - into classic rock & heavy metal 
 - 🧑‍🍳 Enjoys cooking and exploring new recipes  
 - 🌿 Interested in design, creativity, and building personal projects outside of tech
