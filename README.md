@@ -1,20 +1,23 @@
-# 👋 Hi, I'm Elad ✨
+# 👋 Hi, I'm Elad Imany
 
-I'm a **B.Sc. Computer Science student** at Ariel University  
-Passionate about **systems programming**, **network protocols & security**, and **deep learning in computer vision**.  
-I love building robust and scalable software projects that solve real-world problems.
+I'm a **B.Sc. Computer Science student** at Ariel University, passionate about **systems programming**, **network protocols & security**, and **deep learning in computer vision**.  
+I enjoy designing and implementing robust, scalable systems that blend performance, precision, and creativity.
 
 ---
 
 ## About Me
-- Experienced in **C++**, **Python**, and low-level systems development.  
-- Worked on **network protocol research** (HTTP/3 QUIC Spoofed-ACK attack).  
-- Currently developing **real-time vision-based navigation systems** for drones.  
-- Always curious to learn, build, and improve.
+I’m an aspiring software engineer with a strong interest in **low-level programming**, **network research**, and **intelligent systems**.  
+My work focuses on building high-performance C++ and Python applications, from network servers to AI-based vision projects.  
+I’m naturally curious, enjoy solving complex problems, and believe that great engineering comes from understanding both theory and practice.
+
+You can find me on  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eladi24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elad-imany)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eladima66@gmail.com)
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠 Skills & Tools
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -37,49 +40,43 @@ I love building robust and scalable software projects that solve real-world prob
 
 ## 🚀 Featured Projects
 
-### HTTP/3 Analysis and Attack *(Final Project — Research)*
-- Developed a **Spoofed-ACK attack** on the QUIC protocol’s ACK mechanism  
-- Implemented traffic capture, key log decryption, and automated attack scripts  
-- Delivered proof-of-concept and mitigation recommendations
+### HTTP/3 Analysis and Attack — *Final Project (Research)*
+A comprehensive research and implementation project focused on analyzing vulnerabilities in the HTTP/3 protocol.  
+As part of the work, I developed a **novel Spoofed-ACK attack** that targets the ACK mechanism in QUIC, demonstrating how reliability and congestion control can be manipulated under certain conditions.  
+The project included packet-level interception, key-log decryption, traffic replay, and proof-of-concept validation, along with a proposed set of mitigation techniques.  
+This project combined deep networking knowledge, systems-level C++ and Python coding, and a strong focus on real-world security research.
 
-### Optical-Drone-Navigation *(In Progress)*
-- Real-time **image matching system** for drone navigation  
-- Compares live camera input to stored reference flight path images  
-- Uses **ORB feature extraction** in OpenCV + PyTorch (planned for learning-based enhancement)
+### Optical Drone Navigation — *In Progress*
+A real-time **image matching system** for drone navigation that enables autonomous movement without GPS.  
+The drone continuously compares its live camera feed to preloaded reference images along the flight path using **ORB feature extraction** in OpenCV, with PyTorch planned for learning-based improvements.  
+This project explores the intersection of computer vision, embedded systems, and robotics.
 
-### Catan - C++ / SFML
-- GUI board game with interactive board visualization  
-- Turn-based game logic and property management system
+### Catan — *C++ / SFML*
+A full-featured GUI board game based on *The Settlers of Catan*, developed using C++ and SFML.  
+Implements turn-based mechanics, resource management, and an interactive map interface, focusing on clean object-oriented design and reusable components.
 
 ### Thread Pool TCP Server
-- High-performance server using **Reactor** and **Leader-Follower** patterns  
-- Handles multiple concurrent clients efficiently with minimal latency
+A multithreaded TCP server architecture combining the **Reactor** and **Leader-Follower** patterns.  
+Built for efficient concurrent client handling, with focus on synchronization, thread promotion, and low-latency I/O.  
+The project demonstrates a deep understanding of concurrency control and event-driven software design.
 
 ---
 
 ## Areas of Interest
 - Systems programming and backend infrastructure  
-- Network protocol internals & security  
+- Network protocol internals and security  
 - Deep learning and computer vision  
-- Scalable software architectures
-
----
-
-## 🤝 Let's Connect
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eladi24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elad-imany)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eladima66@gmail.com)
+- Scalable and maintainable software architecture
 
 ---
 
 ## Beyond Code
-- Guitarist — classic rock & heavy metal fan  
-- Enjoys cooking and exploring new ideas  
-- Interested in creativity and building personal projects outside of tech
+Outside of software, I enjoy playing guitar, cooking, and exploring creative side projects.  
+I believe in continuous learning and building things that bring ideas to life — whether in tech, music, or everyday creativity.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eladi24&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eladi24&layout=compact&theme=tokyonight)
